@@ -7,7 +7,7 @@ namespace Tabs
         public App()
         {
             InitializeComponent();
-
+            // sadad
             MainPage = new NavigationPage(new TabsPage());
         }
 
