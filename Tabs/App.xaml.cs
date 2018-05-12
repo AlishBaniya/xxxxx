@@ -11,7 +11,7 @@ namespace Tabs
         {
             InitializeComponent();
             // sadad
-            MainPage = new NavigationPage(new TabsPage());
+            MainPage = new NavigationPage(new TabsPage())
         }
 
         protected override void OnStart()
